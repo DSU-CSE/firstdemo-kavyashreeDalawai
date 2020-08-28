@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "Python Programming",
+      "setup": "",
+      "run": "python code.py",
+      "input": "",
+      "output": "Hello World",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Print",
+      "setup": "",
+      "run": "python code.py",
+      "input": "",
+      "output": "Hello World",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    }
+  ]
+}
